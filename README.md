@@ -4,5 +4,5 @@ Custom bottom navigation bar with flutter
 
 
 
-https://github.com/user-attachments/assets/a8de7eec-d1c1-4938-911c-1800ff724f82
 
+![video_bottom_navigation](https://github.com/user-attachments/assets/dd6c7154-8d40-4003-85fe-af6eb82ce92a)
