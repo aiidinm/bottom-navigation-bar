@@ -1,6 +1,6 @@
 # bottom_navigation_bar
 
-A new Flutter project.
+Custom bottom navigation bar
 
 ## Getting Started
 
